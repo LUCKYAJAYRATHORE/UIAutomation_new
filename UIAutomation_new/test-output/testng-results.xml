@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-05T19:55:39Z" name="Default suite" finished-at="2020-07-05T19:55:59Z" duration-ms="20419">
+    <groups>
+    </groups>
+    <test started-at="2020-07-05T19:55:39Z" name="Default test" finished-at="2020-07-05T19:55:59Z" duration-ms="20419">
+      <class name="test.test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.test@971d0d8]" started-at="2020-07-05T19:55:39Z" name="openBrowser" finished-at="2020-07-05T19:55:48Z" duration-ms="9080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="test1()[pri:0, instance:test.test@971d0d8]" started-at="2020-07-05T19:55:48Z" name="test1" finished-at="2020-07-05T19:55:55Z" duration-ms="6446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:test.test@971d0d8]" started-at="2020-07-05T19:55:55Z" name="test2" finished-at="2020-07-05T19:55:59Z" duration-ms="4772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.test@971d0d8]" started-at="2020-07-05T19:55:59Z" name="closeBrowser" finished-at="2020-07-05T19:55:59Z" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
